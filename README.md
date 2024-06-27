@@ -1,3 +1,3 @@
-# Todo-list
-a simple to-do list with html , css ,and javaScript ...
-this is my first mini project
+# Tunisian Resto
+a simple Responsive Restaurant Website for Traditional Tunisian Food  with html , css ,and javaScript ...
+this is my first mini project :)
